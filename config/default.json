@@ -1,0 +1,10 @@
+{
+    "mongoURI": "mongodb+srv://szabi123:szabi123@devconnector.px9ox.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "8c4aff616ce2f44c543b",
+    "githubSecret": "810b60ecbe3cf5092d642163a7a7883db5b8b45f",
+    "githubToken": "f05f83d55579e865dcb611101190bb648ec3c9e1"
+    
+    
+    
+}
